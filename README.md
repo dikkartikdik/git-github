@@ -1,2 +1,2 @@
 # git-github
-Git tutorial execution
+Git tutorial execution purpose
